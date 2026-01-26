@@ -291,60 +291,465 @@ If you engage a professional (financial therapist, wealth counsellor, coach), en
 
 ## Part 5: Resources for Further Learning
 
+*Curated for accessibility. Nothing preachy. Nothing that feels like a sales pitch. Organised by what each resource actually helps with.*
+
+---
+
 ### 5.1 Books
 
-**On Wealth Psychology:**
-- *Mind Over Money* — Brad Klontz & Ted Klontz
-  - Core text on money scripts and financial psychology
-- *The Psychology of Money* — Morgan Housel
-  - Accessible essays on behavior and wealth
-- *Strangers in Paradise* — James Grubman
-  - Specifically about wealth receivers navigating identity
+#### Understanding Your Own Money Psychology
 
-**On Family Systems:**
-- *The Dance of Intimacy* — Harriet Lerner
-  - Accessible introduction to differentiation
-- *Family Evaluation* — Michael Kerr & Murray Bowen
-  - Deeper dive into Bowen family systems (more clinical)
+**The Psychology of Money — Morgan Housel**
+*Best for: Understanding why smart people make strange money decisions*
 
-**On Emerging Adulthood:**
-- *Emerging Adulthood* — Jeffrey Arnett
-  - Understanding the 18-25 developmental stage
-- *The Defining Decade* — Meg Jay
-  - What young adults actually face (read to understand, not to prescribe)
+| What It Helps With | Specific Chapters | Key Quote |
+|-------------------|-------------------|-----------|
+| Realising money is emotional, not logical | Ch. 1: "No One's Crazy" | *"Your personal experiences with money make up maybe 0.00000001% of what's happened in the world, but maybe 80% of how you think the world works."* |
+| Understanding enough vs. more | Ch. 3: "Never Enough" | *"The hardest financial skill is getting the goalpost to stop moving."* |
+| Luck vs. skill in wealth | Ch. 2: "Luck & Risk" | *"Nothing is as good or as bad as it seems."* |
+| Why saving matters more than investing | Ch. 10: "Save Money" | *"Building wealth has little to do with your income or investment returns, and lots to do with your savings rate."* |
 
-**On Giving Well:**
-- *The Gift* — Lewis Hyde
-  - Philosophical exploration of gift-giving dynamics
-- *Connected Fates, Separate Destinies* — Fanny Duckert
-  - Norwegian research on wealth inheritance psychology
+**Why this book:** Written as short essays. No jargon. Doesn't tell you what to do. Just helps you see money differently. Can read in any order.
 
-### 5.2 Podcasts & Audio
+---
 
-- **"The Mind of Money"** — Various episodes on wealth psychology
-- **"Hidden Brain"** — Episodes on money, gifts, family dynamics
-- **"Where Should We Begin?"** — Esther Perel (for understanding relational dynamics)
+**Happy Money: The Science of Happier Spending — Elizabeth Dunn & Michael Norton**
+*Best for: What actually makes spending feel good (research-based)*
 
-### 5.3 Professional Resources (Australia)
+| What It Helps With | Specific Chapters | Key Quote |
+|-------------------|-------------------|-----------|
+| Why buying stuff disappoints | Ch. 1: "Buy Experiences" | *"Experiential purchases... are more deeply connected to our sense of self."* |
+| The joy of anticipation | Ch. 3: "Buy Time" | *"The happiest people treat time as though it's worth more than money."* |
+| Why giving feels good | Ch. 5: "Invest in Others" | *"Spending money on others provides a bigger happiness boost than spending money on yourself."* |
 
-| Type | Organisation/Credential | Notes |
-|------|------------------------|-------|
-| Financial Therapists | Financial Therapy Association (US-based but has Australian members) | Look for CFT credential |
-| Family Business Advisors | Family Business Australia | If wealth is business-connected |
-| Wealth Counsellors | Various; check credentials | Ensure psychology training, not just financial |
-| Family Systems Therapists | AAFT, PACFA | Bowen-trained ideal |
+**Why this book:** Short, research-backed, zero guilt. Helps you figure out what spending patterns actually make you happy vs. what you think should make you happy.
 
-### 5.4 Questions to Ask Professionals
+---
 
-Before engaging anyone:
-1. "What's your approach when family and young adult interests diverge?"
-2. "What do you report back to family, if anything?"
-3. "How do you handle it if the young adult doesn't want to engage?"
-4. "What training do you have in family systems / wealth psychology specifically?"
-5. "What does success look like to you in this kind of work?"
+**Die With Zero — Bill Perkins**
+*Best for: Permission to use money, not just accumulate it*
 
-**Listen for:** Young-adult-centered, autonomy-respecting, non-prescriptive answers.
-**Beware of:** Compliance-focused, family-agenda-serving, outcome-driven answers.
+| What It Helps With | Specific Chapters | Key Quote |
+|-------------------|-------------------|-----------|
+| Challenging "save everything" mentality | Ch. 2: "Invest in Experiences" | *"People who save and invest their money don't just save and invest their money—they save and invest their lives."* |
+| Timing of spending | Ch. 5: "What About the Kids?" | *"Give money when it has the most impact—not at the end of your life."* |
+| Balancing present and future | Ch. 3: "Why Die With Zero?" | *"Your life is the sum of your experiences... money is just a tool."* |
+
+**Why this book:** Controversial but useful counterweight to "save everything" anxiety. Not reckless—actually quite thoughtful about optimising life, not just wealth.
+
+**Caution:** Can feel like permission to spend irresponsibly if read superficially. Best read after you have a savings foundation.
+
+---
+
+**The Barefoot Investor — Scott Pape**
+*Best for: Practical Australian money setup (the "how")*
+
+| What It Helps With | Specific Chapters | Key Quote |
+|-------------------|-------------------|-----------|
+| Basic account structure | Step 2: "Set Up Your Buckets" | *"Automate your money so you don't have to think about it."* |
+| Super and insurance basics | Step 4: "Nail Your Super" | *"Super is the greatest tax loophole available to ordinary Australians."* |
+| Debt elimination | Step 5: "Domino Your Debts" | Practical debt-stacking method |
+
+**Why this book:** Australian-specific. No-nonsense. The "mechanic" guide—how to actually set up accounts, super, insurance. Practical, not philosophical.
+
+**Caution:** Can feel prescriptive ("you should buy a home"). Take the mechanics, ignore lifestyle prescriptions that don't fit you.
+
+---
+
+**Mind Over Money — Brad Klontz & Ted Klontz**
+*Best for: Understanding your inherited money beliefs*
+
+| What It Helps With | Specific Chapters | Key Quote |
+|-------------------|-------------------|-----------|
+| Identifying your money scripts | Ch. 3: "Your Money Scripts" | *"Money scripts are typically unconscious, developed in childhood, passed down from generation to generation."* |
+| Family money patterns | Ch. 4: "Financial Flashpoints" | *"Our first experiences with money shape our adult financial behaviours."* |
+| Why logic doesn't change behaviour | Ch. 6: "Financial Denial" | *"Financial health is 80% behaviour and only 20% knowledge."* |
+
+**Why this book:** The foundational text on money psychology. Helps you see where your money beliefs came from. Clinical but accessible.
+
+---
+
+#### Understanding Family Dynamics
+
+**Adult Children of Emotionally Immature Parents — Lindsay C. Gibson**
+*Best for: Understanding family obligation dynamics (even in loving families)*
+
+| What It Helps With | Specific Chapters | Key Quote |
+|-------------------|-------------------|-----------|
+| Recognising emotional pressure | Ch. 2: "Recognising the Emotionally Immature Parent" | *"They expect you to know what they need without them having to ask."* |
+| Healing from enmeshment | Ch. 7: "Breaking Free" | *"You can love your parents and still have a life of your own."* |
+| Setting boundaries without guilt | Ch. 8: "How to Avoid Getting Hooked" | *"You can observe family patterns without being controlled by them."* |
+
+**Why this book:** Even healthy families have these dynamics. Helps you understand felt obligation without blaming anyone. Not about "bad parents"—about patterns.
+
+---
+
+**The Dance of Anger — Harriet Lerner**
+*Best for: Navigating family disagreements without explosion or silence*
+
+| What It Helps With | Specific Chapters | Key Quote |
+|-------------------|-------------------|-----------|
+| Staying calm in charged conversations | Ch. 1: "The Challenge of Anger" | *"Anger is a signal... that we are being hurt, that our needs are not being met."* |
+| Changing patterns, not people | Ch. 5: "Thinking in Threes" | *"We cannot make another person change... we can only change our own selves."* |
+| Family triangulation | Ch. 6: "Dealing with Differences" | How to stay out of family drama triangles |
+
+**Why this book:** Despite the title, it's about all family communication. Helps you stay connected without being consumed.
+
+---
+
+#### Identity and Meaning
+
+**Man's Search for Meaning — Viktor Frankl**
+*Best for: Finding purpose beyond circumstances*
+
+| What It Helps With | Specific Chapters | Key Quote |
+|-------------------|-------------------|-----------|
+| Purpose beyond material conditions | Part 1: Experiences in a Concentration Camp | *"Everything can be taken from a man but one thing: the last of the human freedoms—to choose one's attitude."* |
+| Meaning as active creation | Part 2: Logotherapy in a Nutshell | *"Life is not primarily a quest for pleasure... but a quest for meaning."* |
+
+**Why this book:** Heavy context (Holocaust memoir) but profound. Helps with "what's the point?" questions that can come with unexpected wealth. Short read.
+
+---
+
+**The Defining Decade — Meg Jay**
+*Best for: Understanding why your 20s feel chaotic (and why that's okay)*
+
+| What It Helps With | Specific Chapters | Key Quote |
+|-------------------|-------------------|-----------|
+| Identity formation | Ch. 2: "Identity Capital" | *"Identity capital is our collection of personal assets... the investments we make in ourselves."* |
+| Decision-making with uncertainty | Ch. 7: "Being Infinite" | *"You can't think your way through life. The only way to figure out what to do is to do something."* |
+| Relationships in your 20s | Part 2: Love | *"The best time to work on your marriage is before you have one."* |
+
+**Why this book:** Validates the messiness of emerging adulthood. Research-based. Helps you feel less behind.
+
+**Caution:** Can feel slightly prescriptive ("don't waste your 20s"). Take the validation, ignore any pressure that doesn't fit.
+
+---
+
+### 5.2 Podcasts
+
+#### Money Psychology & Behaviour
+
+**How I Built This — Guy Raz (NPR)**
+*Best for: Understanding that successful people stumbled and failed repeatedly*
+
+| Episode | What It Helps With | Timestamp / Key Moment |
+|---------|-------------------|----------------------|
+| "Spanx — Sara Blakely" | Luck, persistence, failure | 18:00 — Selling fax machines door-to-door for 7 years before Spanx |
+| "Patagonia — Yvon Chouinard" | Values vs. profit tension | 32:00 — "I never wanted to be a businessman" |
+| "Airbnb — Joe Gebbia" | Starting from nothing | 24:00 — Selling cereal boxes to fund the company |
+
+**Why this podcast:** Normalises struggle. Shows wealth often comes from luck + persistence, not genius. Not preachy—just stories.
+
+---
+
+**Hidden Brain — Shankar Vedantam (NPR)**
+*Best for: Understanding why you do what you do*
+
+| Episode | What It Helps With | Timestamp / Key Moment |
+|---------|-------------------|----------------------|
+| "The Choices Before Us" (Ep. 159) | Decision-making under uncertainty | 14:00 — Why we're bad at predicting what will make us happy |
+| "Money 2.0: Emotional Currency" | Money and emotions | Full episode — Why money feels the way it does |
+| "The Influence You Have" | Impact of small actions | 22:00 — Underestimating your effect on others |
+
+**Why this podcast:** Psychology research made accessible. Helps you understand your own patterns.
+
+---
+
+**The Imperfects — Hugh van Cuylenburg**
+*Best for: Normalising struggle and imperfection (Australian)*
+
+| Episode | What It Helps With | Key Moment |
+|---------|-------------------|-----------|
+| "Dr. Russ Harris — Psychological Flexibility" | Dealing with discomfort | Discussion of "passengers on the bus" metaphor for difficult thoughts |
+| "Osher Günsberg — Mental Health" | Vulnerability and help-seeking | Open discussion of therapy and medication |
+| "Guy Raz — Creativity and Failure" | Permission to fail | Stories of famous failures before success |
+
+**Why this podcast:** Australian. Honest. Mental health-adjacent without being clinical. Casual tone.
+
+---
+
+**On Purpose — Jay Shetty**
+*Best for: Values and life direction questions*
+
+| Episode | What It Helps With | Key Moment |
+|---------|-------------------|-----------|
+| "Morgan Housel: The Psychology of Money" | Money mindset | Discussion of "enough" and comparison |
+| "Arthur Brooks: Building a Happier Life" | Meaning vs. achievement | The "success trap" of external validation |
+| "Daniel Pink: The Power of Regret" | Decision-making | Framework for which regrets matter |
+
+**Why this podcast:** Thoughtful without being preachy. Good interviews on meaning and purpose.
+
+**Caution:** Can trend toward self-help clichés. Skip episodes that don't grab you.
+
+---
+
+#### Australian Specific
+
+**She's on the Money — Victoria Devine**
+*Best for: Australian financial basics (approachable)*
+
+| Episode | What It Helps With | Key Moment |
+|---------|-------------------|-----------|
+| Episode 1: "Getting Started" | Basic money setup | Overview of Australian financial system |
+| "Understanding Your Super" series | Superannuation basics | Australian-specific super explanations |
+| "Investing for Beginners" | First investment steps | Low-jargon introduction |
+
+**Why this podcast:** Australian, practical, no-shame tone. Good for basics if you need them.
+
+**Caution:** Aimed at people starting from scratch—may feel basic if you already know mechanics.
+
+---
+
+**The Pineapple Project — ABC (now ended, but archived)**
+*Best for: Money stories and Australian context*
+
+| Episode | What It Helps With | Key Moment |
+|---------|-------------------|-----------|
+| "The Inheritance Episode" | Receiving family money | Real stories of complicated feelings about inheritance |
+| "The First Home Buyer" | Property anxiety | Australian housing context |
+
+**Why this podcast:** ABC quality. Storytelling approach. Normalises that money is complicated.
+
+---
+
+### 5.3 YouTube
+
+#### Financial Concepts (Clear, Not Preachy)
+
+**Two Cents (PBS Digital Studios)**
+*Best for: Short, clear explanations of financial concepts*
+
+| Video | What It Helps With | Why It Works |
+|-------|-------------------|--------------|
+| "Why We Make Bad Money Decisions" (6 min) | Behavioural biases | Visual, research-based, no judgment |
+| "When Should You Buy a House?" (8 min) | Property decision framework | Balanced pros/cons, not prescriptive |
+| "The Real Cost of Financial Stress" (7 min) | Money and mental health | Validates that money stress is real |
+| "How Much Should You Save?" (6 min) | Savings psychology | Flexible framework, not rigid rules |
+
+**Why this channel:** PBS quality. Short. Research-backed. No products to sell. Not trying to make you feel bad.
+
+---
+
+**The Plain Bagel (Richard Coffin)**
+*Best for: Investment concepts explained simply*
+
+| Video | What It Helps With | Why It Works |
+|-------|-------------------|--------------|
+| "A Beginner's Guide to the Stock Market" (23 min) | Investment basics | Calm, clear, no hype |
+| "Why Index Funds Usually Beat Active Management" (12 min) | Investment strategy | Evidence-based, not selling anything |
+| "The Psychology Behind Financial Bubbles" (15 min) | Market behaviour | Historical context for why markets act strangely |
+
+**Why this channel:** Canadian CFA. Calm tone. Explains without selling. Good for demystifying investment without pressure to act.
+
+---
+
+**How Money Works**
+*Best for: Understanding how financial systems actually function*
+
+| Video | What It Helps With | Why It Works |
+|-------|-------------------|--------------|
+| "Why Billionaires Don't Pay Taxes" (14 min) | Tax and wealth structures | Explains system without moralising |
+| "The Economics of Trust Funds" (12 min) | Family wealth structures | Directly relevant to receiving wealth |
+| "Why The Rich Stay Rich" (13 min) | Wealth preservation dynamics | Context for family wealth |
+
+**Why this channel:** Explains mechanics of wealth. Not aspirational or preachy. Just "here's how this works."
+
+---
+
+#### Psychology & Decision-Making
+
+**HealthyGamerGG (Dr. K)**
+*Best for: Mental health and identity for 20-somethings*
+
+| Video | What It Helps With | Key Moment |
+|-------|-------------------|-----------|
+| "How to Stop Comparing Yourself to Others" (28 min) | Comparison trap | Discussion of social comparison psychology |
+| "Why You Feel Lost in Your 20s" (22 min) | Identity formation | Normalises uncertainty and exploration |
+| "Fear of Disappointing Your Parents" (35 min) | Family pressure | Directly addresses felt obligation |
+
+**Why this channel:** Psychiatrist. Speaks to 20-somethings directly. No BS. Validating without coddling.
+
+**Note:** Streams are long; specific clips circulate that are more digestible.
+
+---
+
+**The School of Life**
+*Best for: Emotional intelligence and self-understanding*
+
+| Video | What It Helps With | Why It Works |
+|-------|-------------------|--------------|
+| "Why We're Fated to Be Lonely" (5 min) | Isolation and connection | Philosophical without being pretentious |
+| "On Self-Hatred" (6 min) | Inner critic | Names feelings you might have |
+| "How to Spot a Genuinely Good Parent" (7 min) | Family dynamics | Framework without blame |
+| "What Is Emotional Maturity?" (5 min) | Self-development | Clear definition and examples |
+
+**Why this channel:** Alain de Botton. Philosophical but accessible. Short. Helps name things you feel but can't articulate.
+
+---
+
+### 5.4 Films & Documentaries
+
+#### Wealth, Money & Society
+
+**The Big Short (2015) — Feature film**
+*Best for: Understanding that financial "experts" often don't know what they're doing*
+
+| What It Helps With | Key Scene | Takeaway |
+|-------------------|-----------|----------|
+| Scepticism of financial authority | Margot Robbie in bathtub explaining CDOs | Complex finance is often deliberately obscure |
+| Luck and timing in wealth | Final montage | Even people who got it right were scared and uncertain |
+| System complexity | Ryan Gosling's narration throughout | The system is more chaotic than it appears |
+
+**Why this film:** Entertaining. Demystifies finance. Shows even "winners" were uncertain.
+
+---
+
+**Jiro Dreams of Sushi (2011) — Documentary**
+*Best for: Understanding mastery, purpose, and work*
+
+| What It Helps With | Key Scene | Takeaway |
+|-------------------|-----------|----------|
+| Meaning beyond money | Jiro's daily routine at 85+ | Purpose comes from craft, not wealth |
+| Generational expectation | Jiro's sons discussing legacy | Complex feelings about family expectations |
+| Enough vs. more | Michelin stars discussion | Excellence doesn't require expansion |
+
+**Why this film:** Meditative. No finance content—but reframes what "success" means.
+
+---
+
+**Minimalism: A Documentary About the Important Things (2016)**
+*Best for: Questioning consumption without going extreme*
+
+| What It Helps With | Key Scene | Takeaway |
+|-------------------|-----------|----------|
+| Consumption and happiness | Stories of high-earners who felt empty | Money ≠ satisfaction |
+| Identity beyond stuff | Various personal stories | Who are you without your possessions? |
+| Values clarification | Discussion of "enough" | Framework for thinking about what you actually want |
+
+**Why this film:** Not preachy (despite potential). Stories-based. Prompts reflection without prescribing minimalist lifestyle.
+
+**Caution:** Can trend toward lifestyle evangelism. Take the questions, not the answers.
+
+---
+
+**Inside Job (2010) — Documentary**
+*Best for: Healthy scepticism about financial institutions*
+
+| What It Helps With | Key Scene | Takeaway |
+|-------------------|-----------|----------|
+| System understanding | Interviews with regulators and bankers | Financial industry serves itself first |
+| Critical thinking about advice | Academic economist conflicts of interest | Even "experts" have incentives you don't see |
+
+**Why this film:** Oscar-winning. Builds healthy scepticism without conspiracy thinking.
+
+---
+
+**Won't You Be My Neighbor? (2018) — Documentary about Mr. Rogers**
+*Best for: Understanding what actually matters*
+
+| What It Helps With | Key Scene | Takeaway |
+|-------------------|-----------|----------|
+| Purpose and meaning | Rogers' congressional testimony | Presence and care matter more than achievement |
+| Authenticity vs. performance | Behind-the-scenes with Rogers | Being real is harder and more valuable than performing |
+
+**Why this film:** Unexpectedly profound. Reorients away from achievement toward connection.
+
+---
+
+### 5.5 Talks & Lectures
+
+**TED Talks**
+
+| Talk | Speaker | Length | What It Helps With | Key Quote |
+|------|---------|--------|-------------------|-----------|
+| "The Happy Secret to Better Work" | Shawn Achor | 12 min | Happiness precedes success, not vice versa | *"We think we have to be successful, then we'll be happier. But our brains work in the opposite order."* |
+| "The Power of Vulnerability" | Brené Brown | 20 min | Shame and connection | *"Vulnerability is the birthplace of joy, creativity, belonging, love."* |
+| "How to Make Hard Choices" | Ruth Chang | 14 min | Decision-making framework | *"Hard choices are hard because there is no best option."* |
+| "The Puzzle of Motivation" | Dan Pink | 18 min | What actually motivates people | *"Autonomy, mastery, purpose—these are the building blocks of intrinsic motivation."* |
+| "My Year of Living Biblically" | A.J. Jacobs | 17 min | Rules vs. meaning (humorous) | Explores rule-following without internalising meaning |
+
+---
+
+### 5.6 Professional Resources (Australia)
+
+#### When Professional Help Would Be Useful
+
+| Situation | Type of Professional | What to Look For |
+|-----------|---------------------|------------------|
+| Stuck in money patterns you can't change | Financial Therapist / Counsellor | CFT credential; psychology background |
+| Family conflict about money | Family Therapist | AAFT or PACFA registration; Bowen training |
+| Anxiety about wealth decisions | Psychologist with money specialty | AHPRA registration; mention of financial therapy |
+| Practical financial structure | Fee-only Financial Adviser | Fee-for-service (not commission); CFP credential |
+| Tax and legal structure | Accountant / Lawyer | Specialist in personal tax; estate planning |
+
+#### Australian Professional Bodies
+
+| Organisation | What They Do | Website |
+|--------------|--------------|---------|
+| Financial Therapy Association | Certifies financial therapists (international) | financialtherapyassociation.org |
+| AAFT (Australian Association of Family Therapy) | Family therapists directory | aaft.asn.au |
+| PACFA (Psychotherapy and Counselling Federation) | Counsellor directory | pacfa.org.au |
+| FPA (Financial Planning Association) | CFP directory (fee-only filter) | fpa.com.au |
+| AHPRA | Registered psychologist lookup | ahpra.gov.au |
+
+#### Questions to Ask Any Professional
+
+1. "How do you charge?" (Avoid commission-based for financial advice)
+2. "What's your approach when I want to do something you think is a mistake?"
+3. "What training do you have specifically in money psychology / family systems?"
+4. "How do you handle family dynamics when they involve money?"
+5. "What would success look like to you in our work together?"
+
+**Green flags:** Client autonomy, no judgment, curious questions back to you
+**Red flags:** "I'll get you sorted," prescriptive plans, no curiosity about your context
+
+---
+
+### 5.7 Reading Order Recommendations
+
+#### If You Only Have Time for Three Things
+
+1. **Book:** *The Psychology of Money* — Start here. Short chapters. Perspective shift.
+2. **YouTube:** Two Cents: "Why We Make Bad Money Decisions" — 6 minutes. Sets the frame.
+3. **Podcast:** Hidden Brain: "Money 2.0: Emotional Currency" — Deeper dive on psychology.
+
+#### If You Want to Go Deeper on Money Psychology
+
+1. *The Psychology of Money* (Housel)
+2. *Mind Over Money* (Klontz)
+3. *Happy Money* (Dunn & Norton)
+4. *Die With Zero* (Perkins) — read last as counterweight
+
+#### If Family Dynamics Are the Main Issue
+
+1. *Adult Children of Emotionally Immature Parents* (Gibson)
+2. *The Dance of Anger* (Lerner)
+3. Podcast: The Imperfects episodes on boundaries
+4. YouTube: HealthyGamerGG on family expectations
+
+#### If You're Questioning Identity and Purpose
+
+1. *Man's Search for Meaning* (Frankl)
+2. *The Defining Decade* (Jay)
+3. TED: Brené Brown on vulnerability
+4. Film: *Jiro Dreams of Sushi*
+
+---
+
+### 5.8 What These Resources Won't Do
+
+Be clear about limits:
+
+| These Resources Will | These Resources Won't |
+|---------------------|----------------------|
+| Help you understand yourself | Tell you what to do with your money |
+| Offer frameworks for thinking | Make decisions for you |
+| Normalise complicated feelings | Eliminate uncertainty |
+| Build financial self-awareness | Replace professional advice when needed |
+| Challenge assumptions | Give you "the answer" |
+
+The goal is building your own judgement, not finding the right expert to follow.
 
 ---
 
